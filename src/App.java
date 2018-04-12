@@ -17,6 +17,7 @@ public class App {
         System.out.println("Angie was here!");
         System.out.println("Genesis was here!");
         System.out.println("Rachael was here!");
+        System.out.println("Alex was here!");
     }
     
 }
