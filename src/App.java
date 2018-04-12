@@ -15,6 +15,7 @@ public class App {
      */
     public static void main(String[] args) {
         System.out.println("Angie was here!");
+        System.out.println("Genesis was here!");
     }
     
 }
